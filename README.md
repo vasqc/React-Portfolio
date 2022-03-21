@@ -1,4 +1,6 @@
-This is a portfolio page that was custom built using React in order to showcase all of my best work. As a web devloper who is aspiring to find work as a software engineer, I appreciate you taking the time to check out my portfolio. Please do not hesitate to reach out with any inquiries or if anything needs further clarification.
+This is a React built Portfolio.   Showcasing all the fundamentals of what React can do, in order to not use a static HTML code. 
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+This is a simple example:
 
 ScreenShot of Application
 
