@@ -1,11 +1,13 @@
 import React from "react";
+import profilePic from '../../assets/small/profile-img.jpg';
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-          <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img src={ profilePic } alt="profile pic"></img>
         </div>
         <p>
           I am a team player. I am outgoing, dedicated, and open-minded. I get
